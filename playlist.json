@@ -1,0 +1,282 @@
+{
+  "entity_type": "playlist_schema",
+  "id": "ee211804-c020-4f6e-bb10-c3d888e591f2",
+  "name": "高専人会アンセム",
+  "playlist_clips": [
+    {
+      "clip": {
+        "status": "complete",
+        "title": "高専人会アンセム",
+        "play_count": 4,
+        "upvote_count": 1,
+        "allow_comments": true,
+        "id": "26f33abe-2b08-44f5-8bab-59a2306d6cf7",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/26f33abe-2b08-44f5-8bab-59a2306d6cf7.mp3",
+        "image_url": "image/93d73b60-7840-4680-a918-b649e6ccc3d5.jpeg",
+        "image_large_url": "image_large/93d73b60-7840-4680-a918-b649e6ccc3d5.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "Bright J-pop band sound with crisp drums, warm bass, and chiming guitars; male vocals leading unison group shouts. Verses stay tight and bouncy, pre-chorus lifts with syncopated hits, chorus bursts into an anthemic singalong with stacked harmonies and a final key-lift reprise.",
+          "prompt": "[Verse 1]\\n朝一番の\\nまぶしいページ\\nキャンパス越えて\\n広がる景色\\n\\n違う専攻\\n違う街でも\\n同じ「なぜ？」で\\nつながる僕ら\\n\\n[Pre-Chorus]\\n答えよりも\\n問いを抱きしめた\\nあの日のまま\\nアップデートしてく\\n\\n[Chorus]\\n高専人 声合わせて\\n（高専人会！）\\n生涯ずっと　学び合おう\\n転んだ回数　ネタに変えて\\n「できる」をふやす　仲間でいよう\\n\\n高専人　手を伸ばせば\\n（どこにいても）\\n誰かの知恵が　すぐ届くよ\\n続いていくよ　このネットワーク\\n高専人　価値を灯そう\\n\\n[Verse 2]\\n初めて覚えた\\n徹夜の朝焼け\\n失敗だらけの\\n試作の匂い\\n\\n笑い飛ばした\\n無茶なアイデア\\n今も心を\\n少し押すんだ\\n\\n[Pre-Chorus]\\n正解なんて\\n時代で変わるさ\\n更新ボタン\\n胸に忍ばせて\\n\\n[Chorus]\\n高専人　輪になりながら\\n（高専人会！）\\nできることから　助け合おう\\n教えるたびに　気づく自分\\n学ぶほどまた　広がる視界\\n\\n高専人　世代こえて\\n（次の君へ）\\nバトンみたいに　経験渡す\\nつながり続ける　このコミュニティ\\n高専人　未来をつくろう\\n\\n[Bridge]\\n就職しても　遠く離れても\\n肩書き増えても　変わらないもの\\n「面白そう」って　目が合う瞬間\\nそれが合図だ　また始めよう\\n\\n[Chorus]\\n高専人　胸を張って\\n（高専人会！）\\n今日も誰かと　学び合おう\\n迷いながらも　前を向いて\\n失敗だって　資産にしよう\\n\\n高専人　この一生を\\n（アップデート）\\nポジティブな学びで満たそう\\n続いていくよ　このネットワーク\\n高専人　価値を高めよう",
+          "edited_clip_id": "00000000-0000-0000-0000-000000000000",
+          "type": "gen",
+          "duration": 194.92,
+          "refund_credits": false,
+          "stream": true,
+          "has_vocal": false,
+          "can_publish_with_vocal": true,
+          "make_instrumental": false,
+          "cover_clip_id": "00000000-0000-0000-0000-000000000000",
+          "task": "cover",
+          "can_remix": true,
+          "is_remix": true,
+          "priority": 10,
+          "has_stem": false,
+          "video_is_stale": true,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          },
+          "secondary_badges": [
+            {
+              "display_name": "Cover",
+              "light": {
+                "text_color": "7D7C83",
+                "background_color": "1C1C1F0A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "A3A3A3",
+                "background_color": "FFFFFF0C",
+                "border_color": "00000000"
+              }
+            }
+          ]
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-03-02T21:30:44.365Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "display_tags": "j-pop, pop, rock",
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 0
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "高専人会アンセム idle ver.",
+        "play_count": 1,
+        "upvote_count": 1,
+        "allow_comments": true,
+        "id": "7e946646-b10b-4a0d-bcf0-08a0444b9ba7",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/7e946646-b10b-4a0d-bcf0-08a0444b9ba7.mp3",
+        "image_url": "image/2205df7e-1a2f-4f26-abde-4f9b3aedf241.jpeg",
+        "image_large_url": "image_large/2205df7e-1a2f-4f26-abde-4f9b3aedf241.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "female vocals, j-pop",
+          "prompt": "[Verse 1]\\n朝一番の\\nまぶしいページ\\nキャンパス越えて\\n広がる景色\\n\\n違う専攻\\n違う街でも\\n同じ「なぜ？」で\\nつながる僕ら\\n\\n[Pre-Chorus]\\n答えよりも\\n問いを抱きしめた\\nあの日のまま\\nアップデートしてく\\n\\n[Chorus]\\n高専人 声合わせて\\n（高専人会！）\\n生涯ずっと　学び合おう\\n転んだ回数　ネタに変えて\\n「できる」をふやす　仲間でいよう\\n\\n高専人　手を伸ばせば\\n（どこにいても）\\n誰かの知恵が　すぐ届くよ\\n続いていくよ　このネットワーク\\n高専人　価値を灯そう\\n\\n[Verse 2]\\n初めて覚えた\\n徹夜の朝焼け\\n失敗だらけの\\n試作の匂い\\n\\n笑い飛ばした\\n無茶なアイデア\\n今も心を\\n少し押すんだ\\n\\n[Pre-Chorus]\\n正解なんて\\n時代で変わるさ\\n更新ボタン\\n胸に忍ばせて\\n\\n[Chorus]\\n高専人　輪になりながら\\n（高専人会！）\\nできることから　助け合おう\\n教えるたびに　気づく自分\\n学ぶほどまた　広がる視界\\n\\n高専人　世代こえて\\n（次の君へ）\\nバトンみたいに　経験渡す\\nつながり続ける　このコミュニティ\\n高専人　未来をつくろう\\n\\n[Bridge]\\n就職しても　遠く離れても\\n肩書き増えても　変わらないもの\\n「面白そう」って　目が合う瞬間\\nそれが合図だ　また始めよう\\n\\n[Chorus]\\n高専人　胸を張って\\n（高専人会！）\\n今日も誰かと　学び合おう\\n迷いながらも　前を向いて\\n失敗だって　資産にしよう\\n\\n高専人　この一生を\\n（アップデート）\\nポジティブな学びで満たそう\\n続いていくよ　このネットワーク\\n高専人　価値を高めよう",
+          "type": "gen",
+          "duration": 177.8,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "video_is_stale": true,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-03-02T21:43:58.879Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 1
+    },
+    {
+      "clip": {
+        "status": "complete",
+        "title": "高専人会アンセム slow techno ver.",
+        "play_count": 1,
+        "upvote_count": 1,
+        "allow_comments": true,
+        "id": "6d45549b-110f-4d1b-8576-5ebcfe2ccd40",
+        "entity_type": "song_schema",
+        "video_url": "",
+        "audio_url": "audio/6d45549b-110f-4d1b-8576-5ebcfe2ccd40.mp3",
+        "image_url": "image/8ce5d525-ddf8-40a9-9299-6b12fcebfdc5.jpeg",
+        "image_large_url": "image_large/8ce5d525-ddf8-40a9-9299-6b12fcebfdc5.jpeg",
+        "major_model_version": "v5",
+        "model_name": "chirp-crow",
+        "metadata": {
+          "tags": "slow techno",
+          "prompt": "[Verse 1]\\n朝一番の\\nまぶしいページ\\nキャンパス越えて\\n広がる景色\\n\\n違う専攻\\n違う街でも\\n同じ「なぜ？」で\\nつながる僕ら\\n\\n[Pre-Chorus]\\n答えよりも\\n問いを抱きしめた\\nあの日のまま\\nアップデートしてく\\n\\n[Chorus]\\n高専人 声合わせて\\n（高専人会！）\\n生涯ずっと　学び合おう\\n転んだ回数　ネタに変えて\\n「できる」をふやす　仲間でいよう\\n\\n高専人　手を伸ばせば\\n（どこにいても）\\n誰かの知恵が　すぐ届くよ\\n続いていくよ　このネットワーク\\n高専人　価値を灯そう\\n\\n[Verse 2]\\n初めて覚えた\\n徹夜の朝焼け\\n失敗だらけの\\n試作の匂い\\n\\n笑い飛ばした\\n無茶なアイデア\\n今も心を\\n少し押すんだ\\n\\n[Pre-Chorus]\\n正解なんて\\n時代で変わるさ\\n更新ボタン\\n胸に忍ばせて\\n\\n[Chorus]\\n高専人　輪になりながら\\n（高専人会！）\\nできることから　助け合おう\\n教えるたびに　気づく自分\\n学ぶほどまた　広がる視界\\n\\n高専人　世代こえて\\n（次の君へ）\\nバトンみたいに　経験渡す\\nつながり続ける　このコミュニティ\\n高専人　未来をつくろう\\n\\n[Bridge]\\n就職しても　遠く離れても\\n肩書き増えても　変わらないもの\\n「面白そう」って　目が合う瞬間\\nそれが合図だ　また始めよう\\n\\n[Chorus]\\n高専人　胸を張って\\n（高専人会！）\\n今日も誰かと　学び合おう\\n迷いながらも　前を向いて\\n失敗だって　資産にしよう\\n\\n高専人　この一生を\\n（アップデート）\\nポジティブな学びで満たそう\\n続いていくよ　このネットワーク\\n高専人　価値を高めよう",
+          "type": "gen",
+          "duration": 242.16,
+          "refund_credits": false,
+          "stream": true,
+          "make_instrumental": false,
+          "can_remix": true,
+          "is_remix": false,
+          "priority": 10,
+          "has_stem": false,
+          "video_is_stale": true,
+          "uses_latest_model": true,
+          "model_badges": {
+            "songcard": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "0000004D",
+                "border_color": "00000000"
+              }
+            },
+            "songrow": {
+              "display_name": "v5",
+              "light": {
+                "text_color": "FD429C",
+                "background_color": "FD429C1A",
+                "border_color": "00000000"
+              },
+              "dark": {
+                "text_color": "FD429C",
+                "background_color": "FD429C40",
+                "border_color": "00000000"
+              }
+            }
+          }
+        },
+        "is_liked": false,
+        "user_id": "ffb3a927-e203-4f3a-82d6-d90eb98b60ac",
+        "display_name": "Taisuke Fukuno",
+        "handle": "taisukefukuno858",
+        "is_handle_updated": true,
+        "avatar_image_url": "avatar_image/sAura3.jpg",
+        "is_trashed": false,
+        "is_hidden": false,
+        "created_at": "2026-03-02T21:42:31.628Z",
+        "is_public": false,
+        "explicit": false,
+        "comment_count": 0,
+        "flag_count": 0,
+        "is_contest_clip": false,
+        "has_hook": false,
+        "batch_index": 0
+      },
+      "relative_index": 2
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/41a51c10.jpeg",
+  "num_total_results": 3,
+  "current_page": 1,
+  "is_owned": false,
+  "is_trashed": false,
+  "is_public": false,
+  "is_hidden": false,
+  "user_display_name": "Taisuke Fukuno",
+  "user_handle": "taisukefukuno858",
+  "user_avatar_image_url": "https://cdn1.suno.ai/sAura3.jpg",
+  "description": "",
+  "upvote_count": 0,
+  "dislike_count": 0,
+  "flag_count": 0,
+  "skip_count": 0,
+  "play_count": 0,
+  "song_count": 0,
+  "is_discover_playlist": false,
+  "clipIds": [
+    "26f33abe-2b08-44f5-8bab-59a2306d6cf7",
+    "7e946646-b10b-4a0d-bcf0-08a0444b9ba7",
+    "6d45549b-110f-4d1b-8576-5ebcfe2ccd40"
+  ]
+}
